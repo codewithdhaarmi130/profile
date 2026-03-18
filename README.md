@@ -20,37 +20,6 @@ status: Learning Python & DSA
 goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight" />
-</p>
-
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:mewadadhaarmi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red">
-  </a>
-  <a href="https://github.com/codewithdhaarmi130">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black">
-  </a>
-</p>
-
----
-
 ## 🌐 Languages
 
 <table>

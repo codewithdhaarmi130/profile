@@ -20,12 +20,7 @@ status: Learning Python & DSA
 goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
-🌐 Languages
-
-Proficiency
-Languages
-
-🟢 Professional</td>
+🟢 Professional
 English • Hindi • Gujarati
 
 🤝 Let's Build Something Together

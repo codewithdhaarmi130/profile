@@ -20,7 +20,7 @@ status: Learning Python & DSA
 goal: Become AI Engineer 💙
 superpower: Consistency + Hard Work 🚀
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight
 
 🟢 Professional
 English • Hindi • Gujarati

@@ -80,19 +80,16 @@ Git · GitHub · VS Code · GDB
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithdhaarmi130&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithdhaarmi130&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithdhaarmi130&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true&border_radius=20">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithdhaarmi130&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithdhaarmi130&theme=tokyonight">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithdhaarmi130&theme=tokyonight&no-frame=true&margin-w=10">
 </p>
-
 
 🌐 Languages
 🟢 English · Hindi · Gujarati

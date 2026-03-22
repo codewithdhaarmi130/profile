@@ -27,7 +27,6 @@ superpower: Consistency + Hard Work 🚀
 - ⚡ Fun fact: I love coding + music 🎶
 
 ---
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
@@ -52,15 +51,6 @@ superpower: Consistency + Hard Work 🚀
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/codewithdhaarmi130">
-    <img src="https://img.shields.io/badge/GitHub-Dhaarmi-black?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---

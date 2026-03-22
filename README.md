@@ -21,47 +21,86 @@
 - 🎯 Goal: Become AI Engineer 💙  
 - 🚀 Superpower: Consistency + Hard Work  
 
----
+I'm a builder, learner, and problem solver — all at once.
+Before finishing my first year, I focused on Python & Data Structures, built multiple projects, and continuously improved my problem-solving skills.
 
-## 🙋‍♀️ About Me
-- 🌱 I’m currently learning **Python & Data Structures**
-- 💡 Interested in **Problem Solving & Coding**
-- 🎯 Goal: Become a skilled developer
-- ⚡ Fun fact: I love coding + music 🎶
+I don't wait for experience — I go get it. 🚀
 
----
+🛠️ Tech Stack
+💻 Languages
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode">
-</p>
+Python 🐍 · C · Basics of HTML, CSS, JavaScript
 
----
+🧠 Core Skills
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight">
-</p>
+Data Structures & Algorithms (DSA)
+Problem Solving
+Logical Thinking
 
----
+🧪 Platforms & Practice
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight">
-</p>
+LeetCode 🧩 (Occasional Practice)
+Codeforces ⚔️ (Learning Phase)
+CTF (Capture The Flag) 🔐 (Exploring)
 
----
+☁️ Tools & Technologies
 
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight">
-</p>
+Git · GitHub · VS Code · GDB
 
----
+🌱 Currently Learning
+📚 Data Structures & Algorithms (Deep Practice)
+🐍 Advanced Python
+🧩 Problem Solving (LeetCode / Practice)
+💡 Writing optimized code
 
-## 💖 Quote
-> "Code. Learn. Repeat. 🚀"
+## 🚀 Projects (Python + Logic Based)
 
----
+| 💡 Project | 📄 Description |
+|----------|--------------|
+| 🔢 Number Programs | Prime, Armstrong, Palindrome, etc. |
+| 📊 Array Problems | Reverse, Move Zeros, Find Duplicates |
+| 🧠 Logic Builder | GCD, Frequency Count (HashMap) |
+| 🎯 Mini Projects | Calculator, Quiz App (Python) |
+| 🤖 Mini Chatbot | Basic chatbot using Python logic |
+| 🖼️ Image Filter AI | Basic AI to filter images using Python |
+
+## 🎯 Goals
+- Become strong in DSA & Problem Solving  
+- Build real-world Python projects  
+- Improve skills in Cybersecurity 🔐  
+- Gain expertise in Microsoft tools & technologies 💼  
+- Become a skilled Software / AI Engineer 💙
+
+💖 A Little More About Me
+🎶 I enjoy coding with music
+📖 I like learning deeply, not just surface
+🤔 I always ask: “Why does this work?”
+🚀 I believe in consistency over motivation
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight"> </p>
+🔥 Streak Stats
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight"> </p>
+📈 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight"> </p>
+
+🌐 Languages
+🟢 English · Hindi · Gujarati
+🔵 Learning more...
+
+.
+🤝 Let's Grow Together
+
+Currently focused on:
+
+Python 🐍
+DSA 🧠
+Coding Practice 💻
+
+✨ Quote
+
+"Code. Learn. Repeat. 🚀"
 
 <p align="center">✨ Thank you for visiting my profile ✨</p>
+
+

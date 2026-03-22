@@ -13,12 +13,15 @@
 ## 🌸 Who Am I?
 
 ```yaml
-name: Dhaarmi
-location: India 🇮🇳
-education: Student
-status: Learning Python & DSA
-goal: Become AI Engineer 💙
-superpower: Consistency + Hard Work 🚀
+# 👋 Hi, I'm Dhaarmi
+
+- 📍 Location: India 🇮🇳  
+- 🎓 Education: Student  
+- 📚 Status: Learning Python & DSA  
+- 🎯 Goal: Become AI Engineer 💙  
+- 🚀 Superpower: Consistency + Hard Work  
+
+---
 
 ## 🙋‍♀️ About Me
 - 🌱 I’m currently learning **Python & Data Structures**
@@ -26,18 +29,39 @@ superpower: Consistency + Hard Work 🚀
 - 🎯 Goal: Become a skilled developer
 - ⚡ Fun fact: I love coding + music 🎶
 
-🛠️ Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight"> </p>
-🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight"> </p>
-📈 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight"> </p>
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewithdhaarmi130&theme=tokyonight">
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight">
+</p>
+
+---
 
 ## 💖 Quote
 > "Code. Learn. Repeat. 🚀"
 
 ---
 
-                                           ✨ Thank you for visiting my profile ✨
+<p align="center">✨ Thank you for visiting my profile ✨</p>

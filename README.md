@@ -10,10 +10,7 @@
 
 ---
 
-## 🌸 Who Am I?
-
-```yaml
-👋 Hi, I'm Dhaarmi
+## 👋 Hi, I'm Dhaarmi
 
 - 📍 Location: India 🇮🇳  
 - 🎓 Education: Student  
@@ -21,39 +18,42 @@
 - 🎯 Goal: Become AI Engineer 💙  
 - 🚀 Superpower: Consistency + Hard Work  
 
-I'm a builder, learner, and problem solver — all at once.
+I'm a builder, learner, and problem solver — all at once.  
 Before finishing my first year, I focused on Python & Data Structures, built multiple projects, and continuously improved my problem-solving skills.
 
-I don't wait for experience — I go get it. 🚀
+I don't wait for experience — I go get it. 🚀  
 
-🛠️ Tech Stack
-💻 Languages
+---
 
-Python 🐍 · C · Basics of HTML, CSS, JavaScript
+## 🛠️ Tech Stack
 
-🧠 Core Skills
+### 💻 Languages
+Python 🐍 · C · Basics of HTML, CSS, JavaScript  
 
-Data Structures & Algorithms (DSA)
-Problem Solving
-Logical Thinking
+### 🧠 Core Skills
+- Data Structures & Algorithms (DSA)  
+- Problem Solving  
+- Logical Thinking  
 
-🧪 Platforms & Practice
+### 🧪 Platforms & Practice
+- LeetCode 🧩 (Occasional Practice)  
+- Codeforces ⚔️ (Learning Phase)  
+- CTF (Capture The Flag) 🔐 (Exploring)  
 
-LeetCode 🧩 (Occasional Practice)
-Codeforces ⚔️ (Learning Phase)
-CTF (Capture The Flag) 🔐 (Exploring)
+### ☁️ Tools & Technologies
+Git · GitHub · VS Code · GDB  
 
-☁️ Tools & Technologies
+---
 
-Git · GitHub · VS Code · GDB
+## 🌱 Currently Learning
+- 📚 Data Structures & Algorithms (Deep Practice)  
+- 🐍 Advanced Python  
+- 🧩 Problem Solving (LeetCode / Practice)  
+- 💡 Writing optimized code  
 
-🌱 Currently Learning
-📚 Data Structures & Algorithms (Deep Practice)
-🐍 Advanced Python
-🧩 Problem Solving (LeetCode / Practice)
-💡 Writing optimized code
+---
 
-🚀 Projects (Python + Logic Based)
+## 🚀 Projects (Python + Logic Based)
 
 | 💡 Project | 📄 Description |
 |----------|--------------|
@@ -64,36 +64,52 @@ Git · GitHub · VS Code · GDB
 | 🤖 Mini Chatbot | Basic chatbot using Python logic |
 | 🖼️ Image Filter AI | Basic AI to filter images using Python |
 
-🎯 Goals
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
 - Become strong in DSA & Problem Solving  
 - Build real-world Python projects  
 - Improve skills in Cybersecurity 🔐  
 - Gain expertise in Microsoft tools & technologies 💼  
-- Become a skilled Software / AI Engineer 💙
+- Become a skilled Software / AI Engineer 💙  
 
-💖 A Little More About Me
-🎶 I enjoy coding with music
-📖 I like learning deeply, not just surface
-🤔 I always ask: “Why does this work?”
-🚀 I believe in consistency over motivation
+---
 
-🌐 Languages
-🟢 English · Hindi · Gujarati
-🔵 Learning more...
+## 💖 A Little More About Me
+- 🎶 I enjoy coding with music  
+- 📖 I like learning deeply, not just surface  
+- 🤔 I always ask: “Why does this work?”  
+- 🚀 I believe in consistency over motivation  
 
-.
-🤝 Let's Grow Together
+---
 
-Currently focused on:
+## 🌐 Languages
+🟢 English · Hindi · Gujarati  
+🔵 Learning more...  
 
-Python 🐍
-DSA 🧠
-Coding Practice 💻
+---
 
-✨ Quote
+## 🤝 Let's Grow Together
 
-"Code. Learn. Repeat. 🚀"
+Currently focused on:  
+
+Python 🐍  
+DSA 🧠  
+Coding Practice 💻  
+
+---
+
+## ✨ Quote
+**"Code. Learn. Repeat. 🚀"**
+
+---
 
 ✨ Thank you for visiting my profile ✨
-
-

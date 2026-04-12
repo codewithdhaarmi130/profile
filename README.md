@@ -64,15 +64,9 @@ Git · GitHub · VS Code · GDB
 | 🤖 Mini Chatbot | Basic chatbot using Python logic |
 | 🖼️ Image Filter AI | Basic AI to filter images using Python |
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithdhaarmi130&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhaarmi130&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎯 Goals
 - Become strong in DSA & Problem Solving  

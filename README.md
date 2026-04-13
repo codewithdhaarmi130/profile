@@ -23,11 +23,6 @@ Before finishing my first year, I focused on Python & Data Structures, built mul
 
 I don't wait for experience — I go get it. 🚀  
 
-![](https://komarev.com/ghpvc/?username=codewithdhaarmi130&color=blue)
-
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=codewithdhaarmi130&theme=onedark)
-
 ---
 
 ## 🛠️ Tech Stack
